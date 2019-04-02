@@ -1,7 +1,14 @@
+
+# Name of Website
 name: Joshua Key
 
+# Markdown Type
 markdown: kramdown
 
-theme: jekyll-theme-cayman
+# Pagination
+paginate: 3
+paginate_path: "/Blog/Page:num/"
 
-permalink: /blog/:year/:month/:day/:title
+
+permalink: /Blog/:year/:month/:day/:title
+theme: jekyll-theme-cayman
