@@ -7,7 +7,7 @@ markdown: kramdown
 
 # Pagination
 paginate: 3
-paginate_path: "/Blog/Page:num/"
+paginate_path: "/blog/page:num/"
 
 
 # permalink: /Blog/:year/:month/:day/:title
