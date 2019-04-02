@@ -10,5 +10,5 @@ paginate: 3
 paginate_path: "/Blog/Page:num/"
 
 
-permalink: /Blog/:year/:month/:day/:title
+# permalink: /Blog/:year/:month/:day/:title
 theme: jekyll-theme-cayman
