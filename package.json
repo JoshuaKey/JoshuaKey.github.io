@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Joshua Key Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshuaKey/JoshuaKey.github.io..git"
+  },
+  "author": "Joshua Key <KeyJoshJ98@yahoo.com> (https://github.com/JoshuaKey)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshuaKey/JoshuaKey.github.io./issues"
+  },
+  "homepage": "https://github.com/JoshuaKey/JoshuaKey.github.io.#readme"
+}
