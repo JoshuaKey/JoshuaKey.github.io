@@ -1,42 +1,4 @@
-
-# # Name of Website
-# name: Joshua Key
-
-# # Markdown Type
-# markdown: kramdown
-
-# # Pagination
-# # paginate: 3
-# # paginate_path: "/blog/page:num/"
-
-
-# # permalink: /Blog/:year/:month/:day/:title
-# remote_theme: t413/SinglePaged
-
-# title:       "SinglePaged - Simple Jekyll template"
-# keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-# description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
-# source_link: "https://github.com/t413/SinglePaged"
-# favicon:     "img/favicon.ico"
-# touch_icon:  "img/apple-touch-icon.png"
-
-# colors:
-#   black:     '#111111'
-#   white:     '#f8f8f8'
-#   blue:      '#49a7e9'
-#   green:     '#9bcf2f'
-#   purple:    '#c869bf'
-#   orange:    '#fab125'
-#   turquoise: '#0fbfcf'
-
-# exclude: [CNAME, README.md, .gitignore]
-# permalink: /:title ## disables post output
-# timezone: null
-# lsi: false
-# markdown: kramdown
-
-# kramdown:
-#   auto_ids:  false
+---
 
 port: 4000
 host: 0.0.0.0
@@ -52,10 +14,10 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "SinglePaged - Simple Jekyll template"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
+title:       "Joshua Key - Portfolio"
+keywords:    "JoshuaKey, Game, GameDev, Portfolio, SinglePaged, jekyll, template, github, blog"
 description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
-source_link: "https://github.com/t413/SinglePaged"
+source_link: "https://github.com/JoshuaKey/JoshuaKey.github.io"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
@@ -73,3 +35,4 @@ colors:
 
 kramdown:
   auto_ids:  false
+
