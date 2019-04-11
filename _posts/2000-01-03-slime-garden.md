@@ -25,7 +25,8 @@ Use Space to attack.
 
 Enjoy!
 
-<iframe src="https://itch.io/embed/248168" height="167" width="552" frameborder="0"></iframe>
+<iframe src="https://itch.io/embed/248168" frameborder="0"></iframe>
 
-[Itch.io](https://joshuakey.itch.io/slime-garden)
-[Github](https://github.com/JoshuaKey/LudumDare41)
+[![](img/Github_Icon.png)](https://github.com/JoshuaKey/LudumDare41)
+[![](img/Itch_Io_Icon.png)](https://joshuakey.itch.io/slime-garden)
+

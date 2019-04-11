@@ -7,7 +7,7 @@ style: center
 
 ## RPG Clicker
 
-<iframe width="347" height="195" src="https://www.youtube.com/embed/UFiXQo6J0sU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/UFiXQo6J0sU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This game was done as a Game Of The Week.
 
@@ -27,5 +27,5 @@ Wisdom - Special Attack Damage
 
 Each level has 10 monsters, the last being a boss monster. Every 10 levels is a new area with a different background and music.
 
-[Itch.io](https://joshuakey.itch.io/rpg-clicker)
-[Github](https://github.com/JoshuaKey/RPG-Clicker)
+[![](img/Github_Icon.png)](https://github.com/JoshuaKey/RPG-Clicker)
+[![](img/Itch_Io_Icon.png)](https://joshuakey.itch.io/rpg-clicker)
