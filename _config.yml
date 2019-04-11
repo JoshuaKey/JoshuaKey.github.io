@@ -1,5 +1,3 @@
----
-
 port: 4000
 host: 0.0.0.0
 safe: false
@@ -15,12 +13,12 @@ markdown: kramdown
 
 ### content configuration ###
 title:       "Joshua Key - Portfolio"
-keywords:    "JoshuaKey, Game, GameDev, Portfolio, SinglePaged, jekyll, template, github, blog"
+keywords:    "Joshua, Key, JoshuaKey, Game, GameDev, Development, Portfolio, SinglePaged, jekyll, template, github, blog"
 description: "A Personal Portfolio site for Joshua Key"
 source_link: "https://github.com/JoshuaKey/JoshuaKey.github.io"
 favicon:     "img/favicon.ico"
 # touch_icon:  
-# google_analytics_key:  ## put YOUR key here to enable tracking! (blank to disable)
+# google_analytics_key: 
 
 
 ### template colors, used site-wide via css ###
@@ -28,6 +26,7 @@ colors:
   black:     '#111111'
   white:     '#f8f8f8'
   blue:      '#49a7e9'
+  lightblue: '#49a7e9'
   green:     '#9bcf2f'
   purple:    '#c869bf'
   orange:    '#fab125'
