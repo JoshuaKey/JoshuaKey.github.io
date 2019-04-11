@@ -44,5 +44,5 @@ What's the Matter is an semi-Educational, semi-Idle Collector, semi-Simulation g
 
 Doctor Scientist is smart, but not the brightest guy. Help him fix his $1,000,000,000 debt by collecting atoms, one atom at a time.
 
-[![](img/Github_Icon.png)](https://github.com/JoshuaKey/Wheres-The-Matter)
-[![](img/Itch_Io_Icon.png)](https://joshuakey.itch.io/whats-the-matter)
+[![](img/Github_Icon_64.png)](https://github.com/JoshuaKey/Wheres-The-Matter)
+[![](img/Itch_Io_Icon_64.png)](https://joshuakey.itch.io/whats-the-matter)

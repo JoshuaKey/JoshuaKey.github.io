@@ -27,5 +27,5 @@ Wisdom - Special Attack Damage
 
 Each level has 10 monsters, the last being a boss monster. Every 10 levels is a new area with a different background and music.
 
-[![](img/Github_Icon.png)](https://github.com/JoshuaKey/RPG-Clicker)
-[![](img/Itch_Io_Icon.png)](https://joshuakey.itch.io/rpg-clicker)
+[![](img/Github_Icon_64.png)](https://github.com/JoshuaKey/RPG-Clicker)
+[![](img/Itch_Io_Icon_64.png)](https://joshuakey.itch.io/rpg-clicker)
