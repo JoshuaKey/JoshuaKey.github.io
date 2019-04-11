@@ -7,7 +7,7 @@ style: center
 
 ## RPG Clicker
 
-<iframe src="https://www.youtube.com/embed/UFiXQo6J0sU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/UFiXQo6J0sU" width="50vw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This game was done as a Game Of The Week.
 
