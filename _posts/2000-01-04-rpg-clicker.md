@@ -1,6 +1,6 @@
 ---
 title: "Whats the Matter?"
-bg: blue
+bg: green
 color: white
 style: center
 ---
