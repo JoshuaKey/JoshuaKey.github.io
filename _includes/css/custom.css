@@ -1,7 +1,3 @@
-embedded {
-    width: 50vw;
-}
-
-.nav {
+nav {
     position: static;
 }
