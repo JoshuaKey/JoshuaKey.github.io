@@ -1,5 +1,5 @@
 ---
-title: "Whats the Matter?"
+title: "RPG Clicker"
 bg: green
 color: white
 style: center

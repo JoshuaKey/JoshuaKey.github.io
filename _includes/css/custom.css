@@ -1,3 +1,7 @@
 embedded {
     width: 50vw;
 }
+
+.nav {
+    position: static;
+}
