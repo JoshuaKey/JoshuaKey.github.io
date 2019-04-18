@@ -142,7 +142,6 @@ nav ul li {
   letter-spacing:normal;
   text-transform:uppercase;
   min-width:110px;
-  width:110px;
   line-height:60px;
   margin:0;
 }
@@ -312,14 +311,13 @@ nav ul li:hover, nav ul li.active {
   nav { font-size:11px; }
   nav ul li {
     min-width:60px;
-    width:60px;
     line-height:40px;
   }
 }
 
 /* tiny size (phones) */
 @media only screen and (max-width: 380px) {
-  nav ul li { min-width:90px; width:90px; line-height:20px; }
+  nav ul li { min-width:90px; line-height:20px; }
 }
 
 /* anything not desktop */
