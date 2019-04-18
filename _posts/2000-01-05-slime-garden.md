@@ -25,9 +25,9 @@ Use Space to attack.
 
 Enjoy!
 
-<div style="width: 100%;">
-    <iframe src="https://itch.io/embed/248168" frameborder="0"></iframe>
-</div>
+
+<iframe src="https://itch.io/embed/248168" style="width: 100%;" frameborder="0"></iframe>
+
 
 _Available on:_
 
