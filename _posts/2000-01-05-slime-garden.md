@@ -25,7 +25,7 @@ Use Space to attack.
 
 Enjoy!
 
-<div class="icontain">
+<div style="width: 100%;">
     <iframe src="https://itch.io/embed/248168" frameborder="0"></iframe>
 </div>
 

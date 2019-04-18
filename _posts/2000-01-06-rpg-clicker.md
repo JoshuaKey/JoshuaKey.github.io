@@ -7,10 +7,7 @@ style: center
 
 ## RPG Clicker
 
-<div style="  position: absolute;
-  top:0;
-  left: 0;
-  width: 100%;">
+<div class="icontain">
     <iframe class="embedded" src="https://www.youtube.com/embed/UFiXQo6J0sU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
     </iframe>
 </div>
