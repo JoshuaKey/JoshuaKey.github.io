@@ -9,5 +9,9 @@ nav ul li a {
 .profile {
     border: 1px solid black;
     border-radius: 100%;
-    box-shadow: 0px 0px 20px 20px #000000;
+    box-shadow: 0px 0px 10px 10px #000000;
 }
+
+/* #home {
+    padding: 0px 0px 20px 0px;
+} */
