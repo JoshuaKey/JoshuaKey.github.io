@@ -1,49 +1,17 @@
 ---
 title: "Whats the Matter?"
-bg: purple
+bg: "#48bf00"
 color: white
 style: center
-
-
-# fa-icon: 
-# icon:
-# seo:  
-
-# check-square-o
-# toggle-on
-# plug
-# cloud-upload
-# film
-
-# <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-#   <ol class="carousel-indicators">
-#     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-#     <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-#     <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-#   </ol>
-#   <div class="carousel-inner">
-#     <div class="carousel-item active">
-#       <img class="d-block w-100" src="..." alt="First slide">
-#     </div>
-#     <div class="carousel-item">
-#       <img class="d-block w-100" src="..." alt="Second slide">
-#     </div>
-#     <div class="carousel-item">
-#       <img class="d-block w-100" src="..." alt="Third slide">
-#     </div>
-#   </div>
-#   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-#     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-#     <span class="sr-only">Previous</span>
-#   </a>
-#   <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-#     <span class="carousel-control-next-icon" aria-hidden="true"></span>
-#     <span class="sr-only">Next</span>
-#   </a>
-# </div>
 ---
 
-## What's The Matter
+<div id="whats-the-matter-carousel" class="carousel slide" style="max-width: 500px!important;margin: 0 auto;">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="./img/WhatsTheMatter_Logo.jpg" alt="What's The Matter Logo">
+    </div>
+  </div>
+</div>
 
 Collect atoms, Build objects, Sell them!
 
@@ -59,5 +27,9 @@ Doctor Scientist is smart, but not the brightest guy. Help him fix his $1,000,00
 
 _Available on:_
 
-[![](img/Github_Icon_64.png)](https://github.com/JoshuaKey/Wheres-The-Matter)
-[![](img/Itch_Io_Icon_64.png)](https://joshuakey.itch.io/whats-the-matter)
+<a href="https://github.com/JoshuaKey/Wheres-The-Matter">
+  <img src="img/Github_Icon_256.png" style="width: 64px; height: 64px;">
+</a>
+<a href="https://joshuakey.itch.io/whats-the-matter">
+  <img src="img/Itch_Io_Icon_256.png" style="width: 64px; height: 64px;">
+</a>

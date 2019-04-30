@@ -76,7 +76,7 @@ $(document).ready(function (){
 
     //section divider icon click gently scrolls to reveal the section
 	$(".sectiondivider").on('click', function(event) {
-    	$('html,body').animate({scrollTop: $(event.target.parentNode).offset().top - 50}, 400, "linear");
+    	$('html,body').animate({scrollTop: $(event.target.parentNode).offset().top}, 400, "linear");
 	});
 
     //links going to other sections nicely scroll
@@ -89,7 +89,17 @@ $(document).ready(function (){
             	$('html,body').animate({scrollTop: targetHight - 170}, 800, "easeInOutExpo");
             });
         }
-	});
+    });
+    
+    //adjust height so section looks smooth
+    var height = $('nav').css('height');
+    $('.nav-bar-block').css('height', height);
 
+});
+
+$( window ).resize(function() {
+    //adjust height so section looks smooth
+    var height = $('nav').css('height');
+    $('.nav-bar-block').css('height', height);
 });
 

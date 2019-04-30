@@ -25,11 +25,12 @@ favicon:     "img/favicon.ico"
 colors:
   black:     '#111111'
   white:     '#f8f8f8'
+  grey:      '#aaaaaa'
   blue:      '#49a7e9'
   lightblue: '#49a7e9'
-  green:     '#9bcf2f'
+  green:     '#48bf00'
   purple:    '#c869bf'
-  orange:    '#fab125'
+  orange:    '#ffa900'
   turquoise: '#0fbfcf'
 
 kramdown:
